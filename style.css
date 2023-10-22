@@ -1,0 +1,171 @@
+.item-div {
+    height: 100vh !important;
+}
+
+.right-side-image {
+    height: 500px;
+}
+
+.svg-path {
+    width: 18%;
+    position: absolute;
+    border-radius: 50%;
+    left: 30rem;
+    top: 5rem;
+    z-index: 1;
+}
+
+
+.message-icon {
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    background-color: #1E69BD;
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+    border-radius: 50%;
+    right: 2rem;
+    bottom: 2rem;
+    cursor: pointer;
+}
+
+.message-icon:hover {
+    background-color: #2f66a4;
+}
+
+/* .bg-left1 {
+    background-color: #6411A9;
+} */
+
+.item-description {
+    position: absolute;
+    left: 22rem;
+    top: 11rem;
+}
+
+.item-info {
+    margin-left: 30px;
+    padding-top: 320px;
+}
+
+
+/* common styles */
+.w-45 {
+    width: 45% !important;
+}
+
+.w-60 {
+    width: 60% !important;
+}
+
+.w-55 {
+    width: 55% !important;
+}
+
+/* ----------- */
+.right-side-container {
+    height: 500px;
+}
+
+/* ----------- */
+.item2-img1 {
+    height: 400px;
+    position: absolute;
+    bottom: 0;
+    left: 10rem;
+}
+
+.item2-img2 {
+    height: 400px;
+    position: absolute;
+    top: 0;
+    right: 10rem;
+}
+
+
+/* item4 ride side images */
+.left1-img-item4 {
+    height: 400px;
+    position: absolute;
+    bottom: 0;
+    left: 5rem;
+}
+
+.left2-img-item4 {
+    height: 400px;
+    position: absolute;
+    top: 5rem;
+    left: 27rem;
+}
+
+.left3-img-item4 {
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.left4-img-item4 {
+    position: absolute;
+    top: -7rem;
+    right: 2rem;
+}
+
+.left5-img-item4 {
+    position: absolute;
+    bottom: -2rem;
+    right: -2rem;
+}
+
+/* item5 ride side images */
+.left1-img-item5 {
+    height: 400px;
+    position: absolute;
+    top: -6rem;
+    left: 5rem;
+}
+
+.left2-img-item5 {
+    height: 400px;
+    position: absolute;
+    top: -1rem;
+    left: 20rem;
+}
+
+.left3-img-item5 {
+    width: 220px;
+    position: absolute;
+    top: 10rem;
+    right: 5rem;
+}
+
+.left4-img-item5 {
+    height: 400px;
+    position: absolute;
+    bottom: -10rem;
+    right: 20rem;
+}
+
+.left5-img-item5 {
+    height: 400px;
+    position: absolute;
+    bottom: -6rem;
+    left: 5rem;
+}
+
+/* item 6 right side images */
+.right1-img-item6 {
+    height: 400px;
+    position: absolute;
+    bottom: -5rem;
+    left: 15rem;
+}
+
+.right2-img-item6 {
+    height: 400px;
+    position: absolute;
+    bottom: -3rem;
+    right: 13rem;
+}
